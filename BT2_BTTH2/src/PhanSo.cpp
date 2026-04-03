@@ -7,7 +7,7 @@ void PhanSo::Nhap(){
     cin >> iTu;
     cout << "Nhap mau vao day : ";
     cin >> iMau;
-    if ( iMau == 0 ){
+    while ( iMau == 0 ){
         cout << "Nhap mot mau khac 0 : ";
         cin >> iMau;
     }
