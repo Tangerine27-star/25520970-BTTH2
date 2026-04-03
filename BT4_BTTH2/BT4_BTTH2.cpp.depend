@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1774781193 source:c:\users\admin\onedrive\máy tính\bt4_btth2.cpp\src\maingiophutgiay.cpp
+	<bits/stdc++.h>
+	<../include/GioPhutGiay.h>
+
+1774781154 c:\users\admin\onedrive\máy tính\bt4_btth2.cpp\include\giophutgiay.h
+
+1775179629 source:c:\users\admin\onedrive\máy tính\bt4_btth2.cpp\src\giophutgiay.cpp
+	"../include/GioPhutGiay.h"
+	<bits/stdc++.h>
+

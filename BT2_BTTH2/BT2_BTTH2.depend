@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1775179934 source:c:\users\admin\onedrive\máy tính\bt2_btth2\src\main.cpp
+	<bits/stdc++.h>
+	"../include/PhanSo.h"
+
+1775137900 c:\users\admin\onedrive\máy tính\bt2_btth2\include\phanso.h
+
+1775180003 source:c:\users\admin\onedrive\máy tính\bt2_btth2\src\phanso.cpp
+	"../include/PhanSo.h"
+	<bits/stdc++.h>
+

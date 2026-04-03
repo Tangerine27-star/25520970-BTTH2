@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1775183823 source:c:\users\admin\onedrive\máy tính\b-i-t-p-\bt3_btth2\bt3_btth2\src\sophuc.cpp
+	"../include/SoPhuc.h"
+	<bits/stdc++.h>
+
+1774790371 c:\users\admin\onedrive\máy tính\b-i-t-p-\bt3_btth2\bt3_btth2\include\sophuc.h
+
+1775183597 source:c:\users\admin\onedrive\máy tính\b-i-t-p-\bt3_btth2\bt3_btth2\src\mainsophuc.cpp
+	"../include/SoPhuc.h"
+	<bits/stdc++.h>
+
